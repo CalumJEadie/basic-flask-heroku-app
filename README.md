@@ -1,7 +1,9 @@
 Basic Flask Heroku App
 ======================
 
-A really basic Flask app to experiment with deploying to Heroku
+http://basic-flask-heroku-app.herokuapp.com
+
+A really basic Flask app to experiment with deploying to Heroku.
 
 Resources
 ---------
@@ -20,17 +22,16 @@ https://toolbelt.heroku.com/
 Set up
 ------
 
-
-Heroku toolbet
+Installed Heroku toolbet.
 
 ```
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 ```
 
-Set up heroku credentials
+Set up heroku credentials.
 
 ```
 heroku login
 ```
 
-Follow http://ryaneshea.com/lightweight-python-apps-with-flask-twitter-bootstrap-and-heroku
+Followed Ryan Shea's instructions for setting up a really basic Flask application and deploying that to Heroku. See http://ryaneshea.com/lightweight-python-apps-with-flask-twitter-bootstrap-and-heroku.
